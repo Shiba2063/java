@@ -1,0 +1,63 @@
+# Compiled Java files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+*.log.*
+
+# Build directories
+target/
+bin/
+out/
+build/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+
+# Gradle
+.gradle/
+gradle-app.setting
+gradlew.bat
+gradlew
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Dependencies
+/lib/
+node_modules/
+
+# Package files
+*.zip
+*.tar.gz
